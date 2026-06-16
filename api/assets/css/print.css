@@ -1,0 +1,1 @@
+.print-area{display:none}@media print{body>*:not(.print-area){display:none!important}.print-area{display:block!important;color:#000;background:#fff;font-family:monospace;width:80mm;padding:4mm}.receipt h1{font-size:16px;text-align:center}.receipt .line{border-top:1px dashed #000;margin:6px 0}.receipt table{width:100%;font-size:12px}.receipt td:last-child{text-align:right}}
